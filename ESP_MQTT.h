@@ -6,7 +6,7 @@
 #include <DNSServer.h>
 #include <PubSubClient.h>
 
-#define _LibraryVersion "0.027"
+#define _LibraryVersion "0.028"
 
 #ifdef _ESP32
 #include <WebServer.h>
